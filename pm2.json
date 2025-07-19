@@ -1,6 +1,6 @@
 {
   "apps": [{
-    "name": "discord_bot.py",
+    "name": "syl-bot.py",
     "script": "index.py",
     "interpreter": "python",
     "interpreter_args": "-u"
